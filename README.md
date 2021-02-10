@@ -2,7 +2,7 @@
 
 I'm Ivan, and I love building products. 
 
-- 🔭 Currently I'm a Product Manager at Tricentis, where I focus on building performance testing software for modern web apps. I joined Tricentis through the acquisision of my last company, [Flood IO](github.com/flood-io).
+- 🔭 Currently I'm a Product Manager at Tricentis, where I focus on building performance testing software for modern web apps. I joined Tricentis through the acquisition of my last company, [Flood IO](github.com/flood-io).
 - 🌱 In my spare time I love coding in #Go and #Next.js with a bit of Tailwind for good measure.
 - 👯 I'm looking to collaborate on anything related to automation, devops, or product management.
 - 🤔 I’m looking for help with [Flood Element](https://github.com/flood-io/element) — our browser based load testing tool.
