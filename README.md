@@ -3,10 +3,10 @@
 I'm Ivan, and I love building products. 
 
 - 🔭 Currently I'm to Co-founder and CPO at [Airheart](https://airheart.com) where we're building a new kind of travel experience for frequent travelers. Previously I was a Product Manager at Tricentis, focusing on building performance testing software for modern web apps. I joined Tricentis through the acquisition of my last company, [Flood IO](github.com/flood-io).
-- 🌱 In my spare time I love coding in #Go and #Next.js with a bit of Tailwind for good measure.
-- 👯 I'm looking to collaborate on anything related to automation, devops, or product management.
-- 🤔 I’m looking for help with [Flood Element](https://github.com/flood-io/element) — our browser based load testing tool.
-- 📫 How to reach me: [@ivanderbyl](https://twitter.com/ivanderbyl) on Twitter or @i2n on Clubhouse. My personal website: [ivan.dev](https://ivan.dev)
+- 🌱 In my spare time I love coding in #Go and #Svelte with a bit of Tailwind for good measure.
+- 👯 I'm looking to collaborate on building the future of travel tech.
+- 🤔 ~I’m looking for help with [Flood Element](https://github.com/flood-io/element) — our browser based load testing tool.~
+- 📫 How to reach me: [@ivanderbyl](https://twitter.com/ivanderbyl) on Twitter. My personal website: [ivan.dev](https://ivan.dev)
 
 
 <!--
