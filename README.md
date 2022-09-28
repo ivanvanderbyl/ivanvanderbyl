@@ -14,5 +14,5 @@ If this sounds like your ideal wheelhouse, lets talk, 📫 Email me: my first na
 
 **TL;DR**
 - 🔭 Currently I'm to Co-founder and CPO at [Airheart](https://airheart.com) where we're building a new kind of travel experience for frequent travelers. Previously I was a Product Manager at Tricentis, focusing on building performance testing software for modern web apps. I joined Tricentis through the acquisition of my last company, [Flood IO](github.com/flood-io).
-- 🌱 In my spare time if I'm not coding I'm travelling, ~~Heliskiing~~ 🏂 Heli-snowboarding in NZ, running, or doing CrossFit.
+- 🌱 In my spare time if I'm not coding I'm travelling, ~~Heliskiing~~ 🏂 Heli-snowboarding in NZ, running, or doing Cross Fit training.
 - 👯 I'm looking to collaborate on building the future of travel tech.
